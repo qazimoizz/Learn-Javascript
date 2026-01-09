@@ -215,8 +215,8 @@
 // }
 
 
-let name = "qazi moiz";
+// let name = "qazi moiz";
 
-for( let i = 0; i < name.length; i++){
-    console.log("Character at index " + i + " is " + name[i]);
-}
+// for( let i = 0; i < name.length; i++){
+//     console.log("Character at index " + i + " is " + name[i]);
+// }
